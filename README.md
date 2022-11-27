@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Luciano Marcondes!
 
 <!--
 **lucianobm/lucianobm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi there 👋, I'm Luciano Marcondes!
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
