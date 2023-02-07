@@ -23,7 +23,9 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Luciano%20Marcondes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianomarcondes/)](https://www.linkedin.com/in/lucianomarcondes/)
 [![Medium Badge](https://img.shields.io/badge/Luciano%20Marcondes-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.medium.com/@lucianobm/)](https://www.medium.com/@lucianobm/)
+<!--
 [![Gmail Badge](https://img.shields.io/badge/-lucianobm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucianobm@gmail.com)](mailto:lucianobm@gmail.com)
+-->
 
 ## ⚡ Technologies
 
